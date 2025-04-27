@@ -4,11 +4,9 @@ import './App.css'
 
 function App() {
   
-  const [search, setSearch] = useState('');
-
   return (
     <>
-      <input type="text" />
+
     </>
   )
 }
